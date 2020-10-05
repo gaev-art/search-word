@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  margin: 40px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  margin: 20px;
+}
+
+
